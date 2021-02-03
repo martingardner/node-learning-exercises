@@ -2,6 +2,7 @@
 const http = require('http');
 
 const requestListener = (req, res) => {
+    console.log('req', req); //chrome may double hit this because one call for actual load and one for favicon.ico
     res.end('Hello World');
 };
 
