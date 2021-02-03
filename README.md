@@ -29,3 +29,10 @@ console.log('File data is', data);
 
 - practice based off of pluralsight class
 - node / nodemon / express
+- stopped this class part way because a lot of the js structures he uses are bad, and callback hell, no separation of concerns.
+
+## ARRAY-REST-server
+
+- my version of a basic server
+- array of objects to Read/Find
+- node / nodemon / express
